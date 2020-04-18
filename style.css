@@ -10,15 +10,12 @@
     flex-direction: column-reverse;
 
 }
-
 .box{
     padding: 30px;
     text-align: center;
     font-size: 40px;
     color: #fff;
 }
-
-
 .box1{
     background-color: #581f18;
 }
